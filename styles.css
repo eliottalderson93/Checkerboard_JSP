@@ -1,0 +1,27 @@
+*{
+    /*border: red dashed 1px; */
+    text-align:center;
+    /* padding:5px;
+    margin:5px; */
+}
+.purple_box{
+    background-color:purple;
+    display:inline-block;
+    height:50px;
+    width:50px;
+}
+.black_box{
+    background-color:black;
+    display:inline-block;
+    height:50px;
+    width:50px;
+}
+.wrapper{
+	width:1000px;
+	height:1000px;
+	background-color:silver;
+}
+.newline{
+	display:block;
+	height:52px;
+}
